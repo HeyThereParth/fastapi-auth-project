@@ -14,7 +14,7 @@ async def life_span(app:FastAPI):
 
 version = "v1"
 app = FastAPI(
-    title="Bookly",
+    title="ChapterOne",
     description= "Rest API for book review web service",
     version=version,
 )
